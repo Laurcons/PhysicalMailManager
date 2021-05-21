@@ -1,5 +1,5 @@
 
-Details on my website.
+Details on my website. https://laurcons.ro/projects/14
 
 ## Installation
 Run `composer install` in the root folder of this app to install Composer dependencies.
