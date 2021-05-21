@@ -1,0 +1,8 @@
+RewriteEngine on
+
+# RewriteRule ^api/?(.*)$ public/api/$1
+
+# RewriteRule ^!(api)/?(.*)$ public/$1
+
+RewriteRule ^api/(.*)$ public/$1 [L,QSA]
+RewriteRule ^(.*)$ public/app/$1 [L,QSA]

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "pecee/simple-router": "4.3.2.1",
+        "rakibtg/sleekdb": "^2.10"
+    }
+}
